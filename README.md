@@ -1,2 +1,2 @@
-# python_self-study-notebooks
-some notes (Jupyter Notebooks) taken during python self-study
+# python_selfstudy_notebooks
+some notes taken during python self-study
